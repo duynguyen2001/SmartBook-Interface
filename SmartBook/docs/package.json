@@ -12,7 +12,9 @@
   "scripts": {
     "dev": "vuepress dev src",
     "build": "vuepress build src",
-    "deploy": "gh-pages -d src/.vuepress/dist"
+    "predeploy": "vuepress build src",
+    "deploy": "gh-pages -d src/.vuepress/dist",
+    "docs:build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {

@@ -19,6 +19,7 @@ export default defineUserConfig({
     /**
      * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
      */
+    base: "/SmartBook-Interface/",
     plugins: [
         [
             registerComponentsPlugin({

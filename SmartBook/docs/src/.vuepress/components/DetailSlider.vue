@@ -34,7 +34,7 @@
 export default {
     data() {
         return {
-            detailLevel: 2, // Default to normal detail
+            detailLevel: "2", // Default to normal detail
         };
     },
     methods: {
