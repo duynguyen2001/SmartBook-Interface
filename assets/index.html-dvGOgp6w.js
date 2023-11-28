@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-10f76965","path":"/book/Nov%2016th%20to%2030th/","title":"Nov 16th to 30th","lang":"en-US","frontmatter":{"title":"Nov 16th to 30th","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{t as data};
