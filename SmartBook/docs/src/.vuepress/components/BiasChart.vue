@@ -32,7 +32,8 @@
                 R
             </div>
         </div>
-        <p>Bias: {{ this.bias }}</p>
+        <div>Bias: {{ this.bias }}</div>
+        <br />
     </div>
 </template>
 
@@ -66,6 +67,7 @@ export default {
     display: flex;
     flex-direction: column;
     align-items: center;
+    row-gap: 0;
 }
 .bias-container {
     display: flex;
