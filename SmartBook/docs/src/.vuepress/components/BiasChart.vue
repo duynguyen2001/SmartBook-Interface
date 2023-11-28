@@ -32,7 +32,7 @@
                 R
             </div>
         </div>
-        <div>Bias: {{ this.bias }}</div>
+        <div>Bias: {{ this.bias ? this.bias : "" }}</div>
         <br />
     </div>
 </template>

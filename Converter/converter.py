@@ -137,7 +137,7 @@ def create_markdown_from_json(
                 # get source information
                 source_info = article_map[claim["link"]]
                 source_date = convert_iso_to_date(source_info["date"])
-                md_text += '|<font id="{}" color=#FF3399>[{}]</font> {}|<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;"><a href="{}" target="_blank"><BiasChart bias="{}" /></a><div><a href="{}" target="_blank">{}</a></div><div>{}</div><div>{}</div></div>|{}|\n'.format(
+                md_text += '|<font id="{}" color=#FF3399>[{}]</font> {}|<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;"><a href="{}" target="_blank"><ClientOnly><BiasChart bias="{}" /></ClientOnly></a><div><a href="{}" target="_blank">{}</a></div><div>{}</div><div>{}</div></div>|{}|\n'.format(
                     claim_id + 1,
                     claim_id + 1,
                     claim["sentence"],

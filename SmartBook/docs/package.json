@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "This is the demo of SmartBook, an AI-assisted situation report generation framework.",
   "main": "index.js",
+  "homepage": "https://duynguyen2001.github.io/SmartBook-Interface/",
   "authors": {
     "name": "Khanh Duy Nguyen",
     "email": "knguye71@illinois.edu"
@@ -10,7 +11,8 @@
   "repository": "./SmartBook",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "vuepress build src"
+    "build": "vuepress build src",
+    "deploy": "gh-pages -d src/.vuepress/dist"
   },
   "license": "MIT",
   "devDependencies": {
@@ -19,6 +21,7 @@
   },
   "packageManager": "yarn@4.0.2",
   "dependencies": {
+    "gh-pages": "^6.1.0",
     "vuepress-theme-hope": "^2.0.0-rc.1"
   }
 }
