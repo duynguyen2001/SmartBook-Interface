@@ -150,8 +150,14 @@ def create_markdown_from_json(
                     claim["context"],
                 )
 
-            file_path = "{}/{}_{}.md".format(
+            # Creating dump directory
+            ensure_dir(
+                dump_path + data_dump_dir_name + "/" + cluster["cluster_headline"]
+            )
+
+            file_path = "{}/{}/{}_{}.md".format(
                 data_dump_dir_name,
+                cluster["cluster_headline"],
                 file_name.replace(".", "_"),
                 question.replace(" ", "_").replace(".", "_").replace("?", "_")[:30],
             )
