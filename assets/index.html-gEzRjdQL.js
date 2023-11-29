@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c11e12aa","path":"/Nov%201st%20to%2015th/Russian%20headquarters%20in%20Melitopol/","title":"Russian Headquarters in Melitopol","lang":"en-US","frontmatter":{"title":"Russian Headquarters in Melitopol","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse(`{"key":"v-8321689c","path":"/Oct%2016th%20to%2030th/Ukraine's%20war%20with%20Russia/","title":"Ukraine's War with Russia","lang":"en-US","frontmatter":{"title":"Ukraine's War with Russia","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}`);export{e as data};

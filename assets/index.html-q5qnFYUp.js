@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-cad07ace","path":"/Sept%201st%20to%2015th/Ukrainian%20forces%20in%20Luhansk/","title":"Ukrainian Forces in Luhansk","lang":"en-US","frontmatter":{"title":"Ukrainian Forces in Luhansk","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

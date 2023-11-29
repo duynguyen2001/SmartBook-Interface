@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-3fd50c4a","path":"/Nov%2016th%20to%2030th/Zaporizhzhia%20power%20plant/","title":"Zaporizhzhia Power Plant","lang":"en-US","frontmatter":{"title":"Zaporizhzhia Power Plant","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{a as data};

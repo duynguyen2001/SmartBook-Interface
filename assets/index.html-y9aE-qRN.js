@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3275ea6c","path":"/Dec%201st%20to%2015th/Biden%20on%20war%20in%20Ukraine/","title":"Biden on War in Ukraine","lang":"en-US","frontmatter":{"title":"Biden on War in Ukraine","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

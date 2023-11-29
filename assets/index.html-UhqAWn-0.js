@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-02a84edb","path":"/Oct%201st%20to%2015th/Russia%20suspends%20grain%20deal/","title":"Russia Suspends Grain Deal","lang":"en-US","frontmatter":{"title":"Russia Suspends Grain Deal","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

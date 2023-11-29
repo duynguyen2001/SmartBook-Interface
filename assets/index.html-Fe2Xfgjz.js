@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-17311078","path":"/Dec%201st%20to%2015th/Russian%20shelling%20in%20Nikopol/","title":"Russian Shelling in Nikopol","lang":"en-US","frontmatter":{"title":"Russian Shelling in Nikopol","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

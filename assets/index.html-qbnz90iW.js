@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-efe49a7e","path":"/Nov%201st%20to%2015th/Russian%20forces%20in%20Kherson/","title":"Russian Forces in Kherson","lang":"en-US","frontmatter":{"title":"Russian Forces in Kherson","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

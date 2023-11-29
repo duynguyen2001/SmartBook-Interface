@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-40aea0e3","path":"/Dec%201st%20to%2015th/Russian%20air%20base%20in%20Ukraine/","title":"Russian Air Base in Ukraine","lang":"en-US","frontmatter":{"title":"Russian Air Base in Ukraine","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

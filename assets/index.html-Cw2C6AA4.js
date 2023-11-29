@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2d3b1a73","path":"/Oct%201st%20to%2015th/Drone%20attacks%20in%20Ukraine/","title":"Drone Attacks in Ukraine","lang":"en-US","frontmatter":{"title":"Drone Attacks in Ukraine","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

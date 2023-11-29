@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7fa19eda","path":"/Sept%2016th%20to%2030th/Paul%20Whelan%20and%20Brittney%20Griner/","title":"Paul Whelan And Brittney Griner","lang":"en-US","frontmatter":{"title":"Paul Whelan And Brittney Griner","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

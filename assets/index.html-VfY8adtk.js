@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-a9bc0ef2","path":"/Sept%2016th%20to%2030th/Nord%20Stream%20pipeline%20sabotage/","title":"Nord Stream Pipeline Sabotage","lang":"en-US","frontmatter":{"title":"Nord Stream Pipeline Sabotage","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

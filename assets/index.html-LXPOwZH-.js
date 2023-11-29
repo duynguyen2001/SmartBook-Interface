@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-544d49d3","path":"/Nov%201st%20to%2015th/Iran%20sending%20missiles%20to%20Russia/","title":"Iran Sending Missiles to Russia","lang":"en-US","frontmatter":{"title":"Iran Sending Missiles to Russia","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

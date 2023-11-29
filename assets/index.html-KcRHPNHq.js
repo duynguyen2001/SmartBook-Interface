@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-512be4dc","path":"/Sept%201st%20to%2015th/Price%20cap%20on%20Russian%20oil/","title":"Price Cap on Russian Oil","lang":"en-US","frontmatter":{"title":"Price Cap on Russian Oil","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-32df530c","path":"/Nov%201st%20to%2015th/Power%20outages%20in%20Ukraine/","title":"Power Outages in Ukraine","lang":"en-US","frontmatter":{"title":"Power Outages in Ukraine","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

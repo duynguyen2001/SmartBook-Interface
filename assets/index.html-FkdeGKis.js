@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d7e27bec","path":"/Dec%2016th%20to%2030th/Russian%20shelling%20in%20Kherson/","title":"Russian Shelling in Kherson","lang":"en-US","frontmatter":{"title":"Russian Shelling in Kherson","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2fcc6ab5","path":"/Jan%201st%20to%2015th/Russian%20missile%20in%20Dnipro/","title":"Russian Missile in Dnipro","lang":"en-US","frontmatter":{"title":"Russian Missile in Dnipro","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

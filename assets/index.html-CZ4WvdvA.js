@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ddf79d1c","path":"/Sept%201st%20to%2015th/Deputies%20in%20St.%20Petersburg/","title":"Deputies in St. Petersburg","lang":"en-US","frontmatter":{"title":"Deputies in St. Petersburg","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

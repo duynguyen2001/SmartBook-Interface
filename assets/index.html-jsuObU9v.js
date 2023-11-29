@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-45562776","path":"/Dec%2016th%20to%2030th/Russian%20missiles%20in%20Kyiv/","title":"Russian Missiles in Kyiv","lang":"en-US","frontmatter":{"title":"Russian Missiles in Kyiv","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

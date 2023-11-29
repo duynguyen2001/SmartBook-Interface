@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-f77b914c","path":"/Nov%2016th%20to%2030th/Polish%20missile%20attack%20in%20Bali/","title":"Polish Missile Attack in Bali","lang":"en-US","frontmatter":{"title":"Polish Missile Attack in Bali","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse(`{"key":"v-94b66c50","path":"/Oct%201st%20to%2015th/'dirty%20bomb'%20in%20Ukraine/","title":"'dirty Bomb' in Ukraine","lang":"en-US","frontmatter":{"title":"'dirty Bomb' in Ukraine","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}`);export{e as data};

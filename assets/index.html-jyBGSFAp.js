@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-59fbc849","path":"/Jan%201st%20to%2015th/Russian%20capture%20of%20Soledar/","title":"Russian Capture of Soledar","lang":"en-US","frontmatter":{"title":"Russian Capture of Soledar","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

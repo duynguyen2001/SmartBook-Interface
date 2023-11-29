@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1cbd5016","path":"/Sept%2016th%20to%2030th/Ukraine%20votes%20to%20join%20Russia/","title":"Ukraine Votes to Join Russia","lang":"en-US","frontmatter":{"title":"Ukraine Votes to Join Russia","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

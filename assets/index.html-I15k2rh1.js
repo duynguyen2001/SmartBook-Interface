@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2e075526","path":"/Dec%2016th%20to%2030th/Putin%20and%20Lukashenko/","title":"Putin And Lukashenko","lang":"en-US","frontmatter":{"title":"Putin And Lukashenko","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

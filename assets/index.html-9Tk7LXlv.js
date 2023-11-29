@@ -1,1 +1,0 @@
-const t=JSON.parse('{"key":"v-189b4fa0","path":"/book/Oct%2016th%20to%2030th/","title":"Oct 16th to 30th","lang":"en-US","frontmatter":{"title":"Oct 16th to 30th","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{t as data};

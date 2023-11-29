@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-baa96068","path":"/Dec%201st%20to%2015th/Ukraine%20attacks%20Melitopol/","title":"Ukraine Attacks Melitopol","lang":"en-US","frontmatter":{"title":"Ukraine Attacks Melitopol","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{e as data};

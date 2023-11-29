@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-84c966a8","path":"/Oct%201st%20to%2015th/Ukraine%20on%20Black%20Sea%20Grain/","title":"Ukraine on Black Sea Grain","lang":"en-US","frontmatter":{"title":"Ukraine on Black Sea Grain","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null}');export{a as data};
