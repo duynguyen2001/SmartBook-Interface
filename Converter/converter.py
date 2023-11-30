@@ -97,7 +97,7 @@ def create_markdown_from_json(
 
     # Adding side ratings
     cfg_sections = []
-    for cluster in data:
+    for i, cluster in enumerate(data):
         cfg_section = {"title": cluster["cluster_headline"], "sections": []}
         # create a source dictionary
         article_map = {}
@@ -149,7 +149,9 @@ def create_markdown_from_json(
                     source_date,
                     claim["context"],
                 )
-
+                data[i]["questions"][question]["claims"][claim_id]["bias"] = source[
+                    "media_bias_rating"
+                ]
             # Creating dump directory
             ensure_dir(
                 dump_path + data_dump_dir_name + "/" + cluster["cluster_headline"]
@@ -178,6 +180,9 @@ def create_markdown_from_json(
     cfg["data"] = [{"title": big_title, "sections": cfg_sections}] + cfg["data"]
     with open(dump_path + cfg_name, "w") as f:
         json.dump(cfg, f, indent=4)
+
+    with open(file_name[:-5] + "_with_bias.json", "w") as f:
+        json.dump(data, f, indent=4)
 
 
 # Usage
