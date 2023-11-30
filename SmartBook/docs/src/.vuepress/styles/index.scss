@@ -1,2 +1,8 @@
 $font-family: Helvetica, Arial, sans-serif;
 $font-family-heading: Helvetica, Arial, sans-serif;
+.anchor {
+    display: block;
+    height: 115px; /*same height as header*/
+    margin-top: -115px; /*same height as header*/
+    visibility: hidden;
+}
